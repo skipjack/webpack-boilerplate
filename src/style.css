@@ -1,0 +1,43 @@
+body { background:#333; }
+
+.banner, 
+.footer {
+	text-align:center;
+	color:#ecf0f1;
+}
+
+.banner {
+	font-size:1.5em;
+	font-family:'Montserrat', sans-serif;
+	padding:0.5em;
+}
+
+.container {
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	min-height:90vh;
+	background:#2c3e50;
+}
+
+.clock-display { 
+	cursor:pointer;
+	font-size:5em;
+	font-family:'digital', sans-serif;
+	color:#ecf0f1;
+	transition:color 250ms;
+}
+
+.clock-display:hover {
+	color:#f39c12;
+}
+
+.footer { padding:0.5em 0.75em; }
+.footer-content { color:#bdc3c7; }
+.footer-content a {
+	color:#3498db;
+	text-decoration:none;
+	transition:color 250ms;
+}
+
+.footer-content a:hover { color:#2980b9; }
