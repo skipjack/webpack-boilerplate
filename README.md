@@ -4,13 +4,13 @@ The aim of this repo is to demonstrate the basic concepts behind [Webpack][1], d
 
 
 
-## The Application
+### The Application
 
 To make things a little less bland, the source compiles to a page displaying a ticking clock. Hopefully it's simple enough for easy disection, while still illustrating the basic concepts of a Webpack based project.
 
 
 
-## Things to Learn
+### Things to Learn
 
 Introduces users to these concepts:
 
@@ -20,7 +20,7 @@ Introduces users to these concepts:
 
 
 
-## Set Up
+### Set Up
 
 Make sure `npm` and `node` are [installed][3].
 
