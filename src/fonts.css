@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat|Pacifico|Fredoka+One|Open+Sans+Condensed:300|Satisfy);
+
+@font-face {
+    font-family: 'digital';
+    src: url('./fonts/digital-7-webfont.woff2') format('woff2'),
+         url('./fonts/digital-7-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
