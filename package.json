@@ -4,7 +4,7 @@
   "description": "A simple webpack boilerplate, demoing some useful features.",
   "main": "null",
   "scripts": {
-    "deploy": "webpack -p",
+    "build": "webpack -p",
     "dev-server": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
