@@ -35,9 +35,8 @@ Clone this repo and `cd` into it.
 Check out the [variations][7] of this repo to see more advanced configuration and tools.
 
 
-
 [1]: http://webpack.github.io/
-[2]: http://thezindex.com/workflow.html
+[2]: http://thezindex.com/posts/workflow.html
 [3]: http://thezindex.com/
 [4]: http://babeljs.io/
 [5]: https://docs.npmjs.com/getting-started/installing-node
