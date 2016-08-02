@@ -37,8 +37,8 @@ Check out the [variations][7] of this repo to see more advanced configuration an
 
 
 [1]: http://webpack.github.io/
-[2]: http://zindex.io/workflow.html
-[3]: http://zindex.io/
+[2]: http://thezindex.com/workflow.html
+[3]: http://thezindex.com/
 [4]: http://babeljs.io/
 [5]: https://docs.npmjs.com/getting-started/installing-node
 [6]: http://webpack.github.io/docs/webpack-dev-server.html
